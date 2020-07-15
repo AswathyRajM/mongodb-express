@@ -1,0 +1,8 @@
+/node_modules
+/build
+/npm-debug.log
+.env
+.DS_Store
+app1.js
+redis-app/node_modules
+
